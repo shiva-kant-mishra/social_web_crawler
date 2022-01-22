@@ -47,13 +47,14 @@ git clone https://github.com/shiva-kant-mishra/social_web_crawler
 ## Features
 
 What's all the bells and whistles this project can perform?
-• To finds information from the social networks in a systematic and automated manner..
-• To implement intelligent crawling of Social Web by “Cluster coverage sampling
+
+* To finds information from the social networks in a systematic and automated manner.
+* To implement intelligent crawling of Social Web by “Cluster coverage sampling
 algorithm" which would enable to crawl for data intelligently rather than blindly
-following a random path.
-• To collecting data from social networking sites as per requirement of social network
+following a random path. 
+* To collecting data from social networking sites as per requirement of social network
 analysis.
-• Avoid irrelevant information from a large set of social data.
+* Avoid irrelevant information from a large set of social data.
 
 ## GUI Flow
 
@@ -139,3 +140,10 @@ Graph plotting incurs overhead of O(n*n) to plot graph from a adjacency matrix o
 
 "If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome."
+
+## License
+
+The project is the result of combined work done by
+* Shiva Kant Mishra (shivakmishra1995@gmail.com)
+* Vaibhav Singh
+* Sumit Rai
